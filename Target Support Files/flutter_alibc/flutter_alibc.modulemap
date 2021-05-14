@@ -1,0 +1,6 @@
+framework module flutter_alibc {
+  umbrella header "flutter_alibc-umbrella.h"
+
+  export *
+  module * { export * }
+}

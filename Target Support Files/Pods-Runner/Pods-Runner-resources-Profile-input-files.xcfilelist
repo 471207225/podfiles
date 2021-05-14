@@ -1,0 +1,12 @@
+${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources.sh
+${PODS_ROOT}/AliAuthSDK/AlibabaAuthSDK.framework/AlibabaAuthSDK.bundle
+${PODS_ROOT}/AliLinkPartnerSDK/AlibcLinkPartnerSDK.framework/SmartLink.bundle
+${PODS_ROOT}/AlibcTradeSDK/AlibcTradeBiz.framework/NBResource.bundle
+${PODS_ROOT}/CL_ShanYanSDK/framework/sdk_oauth.bundle
+${PODS_ROOT}/UMCShare/UMShare/UMSocialUI/UMSocialSDKResources.bundle
+${PODS_ROOT}/WindVane/WindVaneBasic.framework/Resources/WindVaneBasic.bundle
+${PODS_ROOT}/WindVane/WindVaneBasic.framework/Resources/NebulaWK.bundle
+${PODS_ROOT}/WindVane/WindVaneCore.framework/WindVaneBasic.bundle
+${PODS_ROOT}/WindVane/WindVaneCore.framework/NebulaWK.bundle
+${PODS_ROOT}/../.symlinks/plugins/flutter_alibc/ios/Resources/backbutton@2x.png
+${PODS_ROOT}/../.symlinks/plugins/flutter_alibc/ios/Resources/backbutton@3x.png

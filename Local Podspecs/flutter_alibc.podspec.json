@@ -1,0 +1,63 @@
+{
+  "name": "flutter_alibc",
+  "version": "0.0.1",
+  "summary": "阿里百川",
+  "description": "阿里百川",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Your Company": "email@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "resources": "Resources/*.png",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "AlibcTradeSDK": [
+      "4.0.1.6"
+    ],
+    "AliAuthSDK": [
+      "1.1.0.41-bc"
+    ],
+    "mtopSDK": [
+      "3.0.0.3-BC"
+    ],
+    "securityGuard": [
+      "5.4.191"
+    ],
+    "AliLinkPartnerSDK": [
+      "4.0.0.24"
+    ],
+    "BCUserTrack": [
+      "5.2.0.18-appkeys"
+    ],
+    "UTDID": [
+      "1.1.0.16"
+    ],
+    "WindVane": [
+      "8.5.0.46-bc11"
+    ]
+  },
+  "frameworks": [
+    "CoreTelephony",
+    "CoreMotion",
+    "UIKit",
+    "Foundation"
+  ],
+  "libraries": [
+    "z",
+    "c++",
+    "sqlite3.0"
+  ],
+  "platforms": {
+    "ios": "8.0"
+  },
+  "static_framework": true
+}

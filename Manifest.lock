@@ -1,0 +1,206 @@
+PODS:
+  - AliAuthSDK (1.1.0.41-bc)
+  - AlibcTradeSDK (4.0.1.6)
+  - AliLinkPartnerSDK (4.0.0.24)
+  - BCUserTrack (5.2.0.18-appkeys):
+    - UTDID
+  - CL_ShanYanSDK (2.3.3.9)
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - fl_umeng_share (0.0.1):
+    - Flutter
+    - UMCCommon (~> 7.2.5)
+    - UMCShare/Social/ReducedQQ
+    - UMCShare/Social/ReducedWeChat
+    - UMCShare/UI
+  - Flutter (1.0.0)
+  - flutter_alibc (0.0.1):
+    - AliAuthSDK (= 1.1.0.41-bc)
+    - AlibcTradeSDK (= 4.0.1.6)
+    - AliLinkPartnerSDK (= 4.0.0.24)
+    - BCUserTrack (= 5.2.0.18-appkeys)
+    - Flutter
+    - mtopSDK (= 3.0.0.3-BC)
+    - securityGuard (= 5.4.191)
+    - UTDID (= 1.1.0.16)
+    - WindVane (= 8.5.0.46-bc11)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - HappyDNS (0.3.17)
+  - image_gallery_saver (1.5.0):
+    - Flutter
+  - image_picker (0.0.1):
+    - Flutter
+  - mtopSDK (3.0.0.3-BC)
+  - package_info (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+  - Qiniu (8.0.5):
+    - HappyDNS (~> 0.3.17)
+  - Reachability (3.2)
+  - securityGuard (5.4.191)
+  - shanyan (2.3.2.9):
+    - CL_ShanYanSDK (~> 2.3.3.9)
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.2):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - sy_flutter_qiniu_storage (0.0.1):
+    - Flutter
+    - Qiniu
+  - UMAPM (1.2.1)
+  - UMCCommon (7.2.8):
+    - UMAPM
+    - UMDevice
+  - UMCShare/Core (6.10.2):
+    - UMCCommon
+  - UMCShare/Social/ReducedQQ (6.10.2):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedWeChat (6.10.2):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/UI (6.10.2):
+    - UMCCommon
+    - UMCShare/Core
+  - UMDevice (1.2.0)
+  - url_launcher (0.0.1):
+    - Flutter
+  - UTDID (1.1.0.16)
+  - video_player (0.0.1):
+    - Flutter
+  - wakelock (0.0.1):
+    - Flutter
+  - webview_flutter (0.0.1):
+    - Flutter
+  - WindVane (8.5.0.46-bc11):
+    - WindVane/Basic (= 8.5.0.46-bc11)
+    - WindVane/Core (= 8.5.0.46-bc11)
+    - WindVane/WindVane (= 8.5.0.46-bc11)
+  - WindVane/Basic (8.5.0.46-bc11)
+  - WindVane/Core (8.5.0.46-bc11)
+  - WindVane/WindVane (8.5.0.46-bc11)
+
+DEPENDENCIES:
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - fl_umeng_share (from `.symlinks/plugins/fl_umeng_share/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_alibc (from `.symlinks/plugins/flutter_alibc/ios`)
+  - image_gallery_saver (from `.symlinks/plugins/image_gallery_saver/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - package_info (from `.symlinks/plugins/package_info/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - shanyan (from `.symlinks/plugins/shanyan/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - sy_flutter_qiniu_storage (from `.symlinks/plugins/sy_flutter_qiniu_storage/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+  - video_player (from `.symlinks/plugins/video_player/ios`)
+  - wakelock (from `.symlinks/plugins/wakelock/ios`)
+  - webview_flutter (from `.symlinks/plugins/webview_flutter/ios`)
+
+SPEC REPOS:
+  http://repo.baichuan-ios.taobao.com/baichuanSDK/AliBCSpecs.git:
+    - AliAuthSDK
+    - AlibcTradeSDK
+    - AliLinkPartnerSDK
+    - BCUserTrack
+    - mtopSDK
+    - securityGuard
+    - UTDID
+    - WindVane
+  https://gitee.com/mirrors/CocoaPods-Specs.git:
+    - CL_ShanYanSDK
+    - UMAPM
+    - UMCCommon
+    - UMCShare
+    - UMDevice
+  trunk:
+    - FMDB
+    - HappyDNS
+    - Qiniu
+    - Reachability
+
+EXTERNAL SOURCES:
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  fl_umeng_share:
+    :path: ".symlinks/plugins/fl_umeng_share/ios"
+  Flutter:
+    :path: Flutter
+  flutter_alibc:
+    :path: ".symlinks/plugins/flutter_alibc/ios"
+  image_gallery_saver:
+    :path: ".symlinks/plugins/image_gallery_saver/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  package_info:
+    :path: ".symlinks/plugins/package_info/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  shanyan:
+    :path: ".symlinks/plugins/shanyan/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  sy_flutter_qiniu_storage:
+    :path: ".symlinks/plugins/sy_flutter_qiniu_storage/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+  video_player:
+    :path: ".symlinks/plugins/video_player/ios"
+  wakelock:
+    :path: ".symlinks/plugins/wakelock/ios"
+  webview_flutter:
+    :path: ".symlinks/plugins/webview_flutter/ios"
+
+SPEC CHECKSUMS:
+  AliAuthSDK: 7018e8f3c8be3382e60f69d3b517c7de34c351e0
+  AlibcTradeSDK: 9a3e7af6cd648dd1f85684e82694c213fe48dad2
+  AliLinkPartnerSDK: c5778cdfdcee7bfe342238d39a77766184d36a46
+  BCUserTrack: 49251c6fb7c65cbbc221a492bbd3f3e142f1fb0f
+  CL_ShanYanSDK: b3796e112f3c6c530ae94fd987e915b89c5af151
+  connectivity: c4130b2985d4ef6fd26f9702e886bd5260681467
+  fl_umeng_share: cd2ddb3713460d8c4a9eba6ded273d848c8695f4
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_alibc: afe9a83bb68e4773084d37a435998712be904f1c
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  HappyDNS: 848ef73e24f2b0e2752064223ce2dc0dd88900ea
+  image_gallery_saver: 259eab68fb271cfd57d599904f7acdc7832e7ef2
+  image_picker: 9c3312491f862b28d21ecd8fdf0ee14e601b3f09
+  mtopSDK: d6fdf81730342a69be920b576541c7bb81a683d5
+  package_info: 873975fc26034f0b863a300ad47e7f1ac6c7ec62
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+  Qiniu: 99b85defaf831bc788efdda01dc6f0406ece6964
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  securityGuard: 9c04c44a3b663f36e15064042abfc107fa07133c
+  shanyan: 58f352af689d639d91842e3b96fcd60c7633c2cc
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
+  sy_flutter_qiniu_storage: 3a33fb552bb77f4777d261469111f52ad35307fb
+  UMAPM: 58a98390bbb593b9d008f16a403ecd6c550229fd
+  UMCCommon: e009dc757d88ce37774f612291d6ee2fa4a2dca0
+  UMCShare: e14e1399673fa361cddbde3a05b3743e10f673f7
+  UMDevice: da050ba77e5075b1ec08303065722d25f599e483
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+  UTDID: c28855683c5ea2e77e597cb14609328f7d470d6e
+  video_player: 9cc823b1d9da7e8427ee591e8438bfbcde500e6e
+  wakelock: bfc7955c418d0db797614075aabbc58a39ab5107
+  webview_flutter: d2b4d6c66968ad042ad94cbb791f5b72b4678a96
+  WindVane: 56e096abae757397ccd3accb66a959f3ffcbf949
+
+PODFILE CHECKSUM: 9c1f55012ccb18dd1be70304a2f15a5f5f578ab9
+
+COCOAPODS: 1.10.0

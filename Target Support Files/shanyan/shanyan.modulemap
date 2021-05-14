@@ -1,0 +1,6 @@
+framework module shanyan {
+  umbrella header "shanyan-umbrella.h"
+
+  export *
+  module * { export * }
+}
